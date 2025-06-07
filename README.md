@@ -10,7 +10,7 @@ _Class of 2027_
 ### Club Positions
 
 - **Research Coordinator**, Artificial Intelligence Research Club (TJAIR)  
-  Conduct machine learning research in teams. Currently working on time series modeling to predict remaining useful life of NASA turbofan engines.
+  Conduct machine learning research in teams. Helping connect students with interesting projects and internships.
 
 - **Organizer**, [HackTJ](https://hacktj.org/)  
   Part of the organizing team for Northern Virginia’s largest high school hackathon, bringing together hundreds of students to build innovative tech projects in 24 hours.
