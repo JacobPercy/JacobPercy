@@ -1,4 +1,4 @@
-## Hey it's Jacob Percy
+## Jacob Percy
 
 > I'm an ambitious high school sophomore passionate about machine learning and computer vision. I enjoy building models that solve meaningful problems using ML and statistics.
 
