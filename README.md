@@ -36,30 +36,5 @@ _Class of 2027_
 
 ---
 
-### Projects
-
-#### imageMD  
-Mobile app functioning as an AI radiologist. Users upload chest X-rays and receive condition predictions using a custom-trained CNN. Includes chatbot that discusses results with users based on X-ray data and demographics.
-
-#### SafeStreets  
-App and connected camera system that monitors for physical violence using computer vision. Built the violence detection model, which sends real-time alerts to the user when threats are detected.
-
-#### ElectConnect  
-App designed to encourage civic engagement by tailoring news content based on user interest and detecting political bias. Includes real-time speech fact-checking using NLP and live video processing.
-
-#### NightWing Quizzes  
-Quizzing app integrated with Zoom that generates questions from meeting transcripts and engages participants with real-time interactive sessions. Built the user interface and quiz logic for live meetings.
-
-#### CV for TJUAV  
-Object detection pipeline using YOLO to identify and classify field items from a drone’s camera feed. Also developed tools for stitching together aerial images to create a complete overhead map of the competition field.
-
-#### ReMembrane  
-App designed for memory-loss patients to store and recall important memories, including text, images, and location. Implemented dynamic search, B/W-to-color image conversion, and a 2D-to-3D reconstruction pipeline.
-
-#### RUL Prediction (TJAIR)  
-Research project focused on predicting the remaining useful life of NASA turbofan engines using time series modeling with LSTM and GRU networks.
-
----
-
 ### Contact
 Feel free to reach out: [jacobpercy09@gmail.com](mailto:jacobpercy09@gmail.com)
