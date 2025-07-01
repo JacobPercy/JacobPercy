@@ -12,7 +12,7 @@ _Class of 2027_
 - **President**, [Mobile App Development Club (TJMAC)](https://activities.tjhsst.edu/mobileapps/)  
   Lead a team of students in designing and building mobile apps. Plan to transition from Flutter to a Java/XML stack to broaden technical exposure.
 
-- **Drop Team Lead**, [TJUAV (Unmanned Aerial Vehicle Club)](https://tjuav.org/)
+- **CV Lead**, [TJUAV (Unmanned Aerial Vehicle Club)](https://tjuav.org/)
   Help design, build, and program autonomous aircraft for payload delivery missions at the SUAS competition. Currently working on object detection from aerial footage. [GitHub](https://github.com/tj-uav)
 
 - **Vice President**, Key Club  
