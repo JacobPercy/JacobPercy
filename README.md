@@ -1,6 +1,6 @@
 ## Jacob Percy
 
-> I'm an ambitious high school sophomore passionate about machine learning and computer vision. I enjoy building models that solve meaningful problems using ML and statistics.
+> I'm an ambitious high school junior passionate about machine learning and computer vision. I enjoy building models that solve meaningful problems using ML and statistics.
 
 **[Thomas Jefferson High School for Science and Technology](https://tjhsst.fcps.edu/)**  
 _Class of 2027_
