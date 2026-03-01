@@ -1,4 +1,5 @@
-## Jacob Percy
+# Jacob Percy
+## [electconnect.net](https://www.electconnect.net/)
 
 > I'm an ambitious high school junior passionate about machine learning and computer vision. I enjoy building models that solve meaningful problems using ML and statistics.
 
